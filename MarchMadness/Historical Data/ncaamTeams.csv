@@ -1,0 +1,370 @@
+,ID,Name,Abbrev,Active,Nickname
+team_376,376,Akron Zips,AKR,Y,Zips
+team_344,344,Alabama Crimson Tide,ALA,Y,Crimson Tide
+team_545,545,Alabama A&M Bulldogs,ALAM,Y,Bulldogs
+team_238,238,Alabama State Hornets,ALST,Y,Hornets
+team_540,540,Albany Great Danes,ALB,Y,Great Danes
+team_242,242,Alcorn State Braves,ALC,Y,Braves
+team_516,516,American Eagles,AMER,Y,Eagles
+team_345,345,Appalachian State Mountaineers,APP,Y,Mountaineers
+team_234,234,Arizona Wildcats,ARIZ,Y,Wildcats
+team_225,225,Arizona State Sun Devils,ASU,Y,Sun Devils
+team_235,235,Arkansas Razorbacks,ARK,Y,Razorbacks
+team_346,346,Arkansas State Red Wolves,ARST,Y,Red Wolves
+team_487,487,Arkansas-Little Rock Trojans,UALR,Y,Trojans
+team_535,535,Arkansas-Pine Bluff Golden Lions,UAPB,Y,Golden Lions
+team_298,298,Army Black Knights,ARMY,Y,Black Knights
+team_348,348,Auburn Tigers,AUB,Y,Tigers
+team_350,350,Austin Peay Governors,APSU,Y,Governors
+team_352,352,BYU Cougars,BYU,Y,Cougars
+team_454,454,Ball State Cardinals,BSU,Y,Cardinals
+team_448,448,Baylor Bears,BAY,Y,Bears
+team_543,543,Belmont Bruins,BELM,Y,Bruins
+team_260,260,Bethune-Cookman Wildcats,BETH,Y,Wildcats
+team_547,547,Binghamton Bearcats,BING,Y,Bearcats
+team_244,244,Boise State Broncos,BOIS,Y,Broncos
+team_427,427,Boston College Eagles,BC,Y,Eagles
+team_270,270,Boston University Terriers,BU,Y,Terriers
+team_453,453,Bowling Green Falcons,BGSU,Y,Falcons
+team_366,366,Bradley Braves,BRAD,Y,Braves
+team_246,246,Brown Bears,BRWN,Y,Bears
+team_280,280,Bucknell Bison,BUCK,Y,Bison
+team_521,521,Buffalo Bulls,BUFF,Y,Bulls
+team_354,354,Butler Bulldogs,BUTL,Y,Bulldogs
+team_529,529,Cal Poly Mustangs,POLY,Y,Mustangs
+team_467,467,Cal State Fullerton Titans,CSF,Y,Titans
+team_253,253,Cal State Northridge Matadors,CSN,Y,Matadors
+team_340,340,California Golden Bears,CAL,Y,Golden Bears
+team_355,355,Campbell Fightin Camels,CAMP,Y,Fightin Camels
+team_505,505,Canisius Golden Griffins,CANI,Y,Golden Griffins
+team_256,256,Central Connecticut Blue Devils,CCSU,Y,Blue Devils
+team_455,455,Central Michigan Chippewas,CMU,Y,Chippewas
+team_461,461,Charleston Southern Buccaneers,CHSO,Y,Buccaneers
+team_489,489,Charlotte 49ers,CHAR,Y,49ers
+team_436,436,Chattanooga Mocs,CHAT,Y,Mocs
+team_397,397,Chicago State Cougars,CHIS,Y,Cougars
+team_252,252,Cincinnati Bearcats,CINC,Y,Bearcats
+team_368,368,Citadel Bulldogs,CITA,Y,Bulldogs
+team_357,357,Clemson Tigers,CLEM,Y,Tigers
+team_359,359,Cleveland State Vikings,CLST,Y,Vikings
+team_420,420,Coastal Carolina Chanticleers,CCAR,Y,Chanticleers
+team_391,391,Colgate Raiders,COLG,Y,Raiders
+team_522,522,College of Charleston Cougars,COFC,Y,Cougars
+team_254,254,Colorado Buffaloes,COLO,Y,Buffaloes
+team_360,360,Colorado State Rams,COST,Y,Rams
+team_508,508,Columbia Lions,COLU,Y,Lions
+team_255,255,Connecticut Huskies,CONN,Y,Huskies
+team_407,407,Coppin State Eagles,COPP,Y,Eagles
+team_425,425,Cornell Big Red,CORN,Y,Big Red
+team_456,456,Creighton Bluejays,CREI,Y,Bluejays
+team_290,290,Dartmouth Big Green,DART,Y,Big Green
+team_257,257,Davidson Wildcats,DAV,Y,Wildcats
+team_259,259,Dayton Flyers,UD,Y,Flyers
+team_363,363,DePaul Blue Demons,DEP,Y,Blue Demons
+team_343,343,Delaware Blue Hens,DEL,Y,Blue Hens
+team_492,492,Delaware State Hornets,DEST,Y,Hornets
+team_536,536,Denver Pioneers,DEN,Y,Pioneers
+team_475,475,Detroit Titans,DET,Y,Titans
+team_431,431,Drake Bulldogs,DRKE,Y,Bulldogs
+team_393,393,Drexel Dragons,DREX,Y,Dragons
+team_236,236,Duke Blue Devils,DUKE,Y,Blue Devils
+team_479,479,Duquesne Dukes,DUQ,Y,Dukes
+team_506,506,East Carolina Pirates,ECU,Y,Pirates
+team_458,458,East Tennessee State Buccaneers,ETSU,Y,Buccaneers
+team_447,447,Eastern Illinois Panthers,EIU,Y,Panthers
+team_499,499,Eastern Kentucky Colonels,EKU,Y,Colonels
+team_433,433,Eastern Michigan Eagles,EMU,Y,Eagles
+team_268,268,Eastern Washington Eagles,EWU,Y,Eagles
+team_539,539,Elon Phoenix,ELON,Y,Phoenix
+team_384,384,Evansville Purple Aces,EVAN,Y,Purple Aces
+team_434,434,Fairfield Stags,FAIR,Y,Stags
+team_413,413,Fairleigh Dickinson Knights,FDU,Y,Knights
+team_395,395,Florida Gators,FLA,Y,Gators
+team_261,261,Florida A&M Rattlers,FAMU,Y,Rattlers
+team_526,526,Florida Atlantic Owls,FAU,Y,Owls
+team_263,263,Florida International Golden Panthers,FIU,Y,Golden Panthers
+team_442,442,Florida State Seminoles,FSU,Y,Seminoles
+team_365,365,Fordham Rams,FORD,Y,Rams
+team_550,550,Fort Wayne Mastodons,IPFW,Y,Mastodons
+team_550,550,Fort Wayne Mastodons,PFW,Y,Mastodons
+team_265,265,Fresno State Bulldogs,FRES,Y,Bulldogs
+team_226,226,Furman Paladins,FURM,Y,Paladins
+team_552,552,Gardner-Webb Runnin Bulldogs,GWB,Y,Runnin Bulldogs
+team_333,333,George Mason Patriots,GMU,Y,Patriots
+team_378,378,George Washington Revolutionaries,GWU,Y,Revolutionaries
+team_426,426,Georgetown Hoyas,GU,Y,Hoyas
+team_318,318,Georgia Bulldogs,UGA,Y,Bulldogs
+team_367,367,Georgia Southern Eagles,GASO,Y,Eagles
+team_369,369,Georgia State Panthers,GSU,Y,Panthers
+team_371,371,Georgia Tech Yellow Jackets,GT,Y,Yellow Jackets
+team_435,435,Gonzaga Bulldogs,GONZ,Y,Bulldogs
+team_403,403,Grambling Tigers,GRAM,Y,Tigers
+team_349,349,Green Bay Phoenix,GB,Y,Phoenix
+team_530,530,Hampton Pirates,HAMP,Y,Pirates
+team_362,362,Hartford Hawks,HART,N,Hawks
+team_372,372,Harvard Crimson,HARV,Y,Crimson
+team_267,267,Hawaii Warriors,HAW,Y,Warriors
+team_544,544,High Point Panthers,HPU,Y,Panthers
+team_380,380,Hofstra Pride,HOFS,Y,Pride
+team_457,457,Holy Cross Crusaders,HC,Y,Crusaders
+team_341,341,Houston Cougars,HOU,Y,Cougars
+team_316,316,Howard Bison,HOW,Y,Bison
+team_537,537,IUPUI Jaguars,IUPUI,Y,Jaguars
+team_241,241,Idaho Vandals,ID,Y,Vandals
+team_269,269,Idaho State Bengals,IDST,Y,Bengals
+team_388,388,Illinois Fighting Illini,ILL,Y,Fighting Illini
+team_258,258,Illinois State Redbirds,ILST,Y,Redbirds
+team_449,449,Illinois-Chicago Flames,UIC,Y,Flames
+team_230,230,Indiana Hoosiers,IND,Y,Hoosiers
+team_460,460,Indiana State Sycamores,INST,Y,Sycamores
+team_337,337,Iona Gaels,IONA,Y,Gaels
+team_450,450,Iowa Hawkeyes,IOWA,Y,Hawkeyes
+team_339,339,Iowa State Cyclones,ISU,Y,Cyclones
+team_373,373,Jackson State Tigers,JSU,Y,Tigers
+team_485,485,Jacksonville Dolphins,JAX,Y,Dolphins
+team_531,531,Jacksonville State Gamecocks,JXST,Y,Gamecocks
+team_375,375,James Madison Dukes,JMU,Y,Dukes
+team_224,224,Kansas Jayhawks,KU,Y,Jayhawks
+team_377,377,Kansas State Wildcats,KSU,Y,Wildcats
+team_232,232,Kent State Golden Flashes,KENT,Y,Golden Flashes
+team_332,332,Kentucky Wildcats,UK,Y,Wildcats
+team_327,327,LSU Tigers,LSU,Y,Tigers
+team_500,500,La Salle Explorers,LAS,Y,Explorers
+team_271,271,Lafayette Leopards,LAF,Y,Leopards
+team_296,296,Lamar Cardinals,LAM,Y,Cardinals
+team_245,245,Lehigh Mountain Hawks,LEH,Y,Mountain Hawks
+team_274,274,Liberty Flames,LIB,Y,Flames
+team_555,555,Lipscomb Bisons,LIP,Y,Bisons
+team_389,389,Long Beach State 49ers,LBSU,Y,49ers
+team_432,432,Long Island Sharks,LIU,Y,Sharks
+team_556,556,Longwood Lancers,LONG,Y,Lancers
+team_273,273,Louisiana Tech Bulldogs,LTU,Y,Bulldogs
+team_266,266,Louisiana-Lafayette Ragin' Cajuns,ULL,Y,Ragin' Cajuns
+team_278,278,Louisiana-Monroe Warhawks,ULM,Y,Warhawks
+team_483,483,Louisville Cardinals,UL,Y,Cardinals
+team_418,418,Loyola Chicago Ramblers,LOYO,Y,Ramblers
+team_379,379,Loyola Maryland Greyhounds,LMD,Y,Greyhounds
+team_300,300,Loyola Marymount Lions,LMU,Y,Lions
+team_275,275,Maine Black Bears,UME,Y,Black Bears
+team_381,381,Manhattan Jaspers,MAN,Y,Jaspers
+team_374,374,Marist Red Foxes,MAR,Y,Red Foxes
+team_462,462,Marquette Golden Eagles,MARQ,Y,Golden Eagles
+team_422,422,Marshall Thundering Herd,MRSH,Y,Thundering Herd
+team_484,484,Maryland Terrapins,UMD,Y,Terrapins
+team_356,356,Maryland-Baltimore County Retrievers,UMBC,Y,Retrievers
+team_383,383,Maryland-Eastern Shore Hawks,UMES,Y,Hawks
+team_494,494,Massachusetts Minutemen,MASS,Y,Minutemen
+team_510,510,McNeese State Cowboys,MCN,Y,Cowboys
+team_463,463,Memphis Tigers,MEM,Y,Tigers
+team_507,507,Mercer Bears,MERC,Y,Bears
+team_334,334,Miami (Fla.) Hurricanes,MIA,Y,Hurricanes
+team_385,385,Miami (Ohio) Redhawks,MIO,Y,Redhawks
+team_517,517,Michigan Wolverines,MICH,Y,Wolverines
+team_227,227,Michigan State Spartans,MSU,Y,Spartans
+team_276,276,Middle Tennessee Blue Raiders,MTSU,Y,Blue Raiders
+team_519,519,Milwaukee Panthers,MILW,Y,Panthers
+team_464,464,Minnesota Golden Gophers,MINN,Y,Golden Gophers
+team_465,465,Mississippi Rebels,MISS,Y,Rebels
+team_495,495,Mississippi State Bulldogs,MSST,Y,Bulldogs
+team_277,277,Mississippi Valley State Delta Devils,MVSU,Y,Delta Devils
+team_437,437,Missouri Tigers,MIZZ,Y,Tigers
+team_279,279,Missouri State Bears,MOST,Y,Bears
+team_466,466,Missouri-Kansas City Kangaroos,UMKC,Y,Kangaroos
+team_304,304,Monmouth Hawks,MON,Y,Hawks
+team_387,387,Montana Grizzlies,MONT,Y,Grizzlies
+team_286,286,Montana State Bobcats,MTST,Y,Bobcats
+team_511,511,Morehead State Eagles,MORE,Y,Eagles
+team_288,288,Morgan State Bears,MORG,Y,Bears
+team_329,329,Mount St. Mary`s Mountaineers,MSM,Y,Mountaineers
+team_281,281,Murray State Racers,MURR,Y,Racers
+team_364,364,Navy Midshipmen,NAVY,Y,Midshipmen
+team_294,294,Nebraska Cornhuskers,NEB,Y,Cornhuskers
+team_302,302,Nevada Wolf Pack,NEV,Y,Wolf Pack
+team_409,409,New Hampshire Wildcats,UNH,Y,Wildcats
+team_283,283,New Mexico Lobos,NM,Y,Lobos
+team_438,438,New Mexico State Aggies,NMSU,Y,Aggies
+team_439,439,New Orleans Privateers,UNO,Y,Privateers
+team_292,292,Niagara Purple Eagles,NIAG,Y,Purple Eagles
+team_247,247,Nicholls State Colonels,NICH,Y,Colonels
+team_533,533,Norfolk State Spartans,NORF,Y,Spartans
+team_324,324,North Carolina Tar Heels,UNC,Y,Tar Heels
+team_509,509,North Carolina A&T Aggies,NCAT,Y,Aggies
+team_262,262,North Carolina State Wolfpack,NCSU,Y,Wolfpack
+team_390,390,North Texas Mean Green,UNT,Y,Mean Green
+team_231,231,Northeastern Huskies,NU,Y,Huskies
+team_322,322,Northern Arizona Lumberjacks,NAU,Y,Lumberjacks
+team_470,470,Northern Illinois Huskies,NIU,Y,Huskies
+team_285,285,Northern Iowa Panthers,UNI,Y,Panthers
+team_471,471,Northwestern Wildcats,NW,Y,Wildcats
+team_476,476,Northwestern State Demons,NWSU,Y,Demons
+team_237,237,Notre Dame Fightin` Irish,ND,Y,Fightin` Irish
+team_541,541,Oakland Golden Grizzlies,OAK,Y,Golden Grizzlies
+team_472,472,Ohio Bobcats,OHIO,Y,Bobcats
+team_482,482,Ohio State Buckeyes,OSU,Y,Buckeyes
+team_446,446,Oklahoma Sooners,OU,Y,Sooners
+team_392,392,Oklahoma State Cowboys,OKSU,Y,Cowboys
+team_284,284,Old Dominion Monarchs,ODU,Y,Monarchs
+team_527,527,Oral Roberts Golden Eagles,ORU,Y,Golden Eagles
+team_326,326,Oregon Ducks,ORE,Y,Ducks
+team_504,504,Oregon State Beavers,ORST,Y,Beavers
+team_386,386,Pacific Tigers,PAC,Y,Tigers
+team_331,331,Penn Quakers,PENN,Y,Quakers
+team_394,394,Penn State Nittany Lions,PSU,Y,Nittany Lions
+team_287,287,Pepperdine Waves,PEPP,Y,Waves
+team_473,473,Pittsburgh Panthers,PITT,Y,Panthers
+team_414,414,Portland Pilots,PORT,Y,Pilots
+team_534,534,Portland State Vikings,POST,Y,Vikings
+team_416,416,Prairie View Panthers,PVAM,Y,Panthers
+team_358,358,Princeton Tigers,PRIN,Y,Tigers
+team_289,289,Providence Friars,PROV,Y,Friars
+team_336,336,Purdue Boilermakers,PUR,Y,Boilermakers
+team_538,538,Quinnipiac Bobcats,QUIN,Y,Bobcats
+team_490,490,Radford Highlanders,RAD,Y,Highlanders
+team_474,474,Rhode Island Rams,URI,Y,Rams
+team_312,312,Rice Owls,RICE,Y,Owls
+team_291,291,Richmond Spiders,RICH,Y,Spiders
+team_306,306,Rider Broncs,RID,Y,Broncs
+team_497,497,Robert Morris Colonials,RMU,Y,Colonials
+team_493,493,Rutgers Scarlet Knights,RUTG,Y,Scarlet Knights
+team_342,342,SMU Mustangs,SMU,Y,Mustangs
+team_520,520,Sacramento State Hornets,SAC,Y,Hornets
+team_542,542,Sacred Heart Pioneers,SHU,Y,Pioneers
+team_488,488,Saint Bonaventure Bonnies,BONA,Y,Bonnies
+team_382,382,Saint Francis (NY) Terriers,SFNY,N,Terriers
+team_293,293,Saint Francis (PA) Red Flash,SFPA,Y,Red Flash
+team_305,305,Saint John`s Red Storm,STJN,Y,Red Storm
+team_498,498,Saint Joseph`s Hawks,STJS,Y,Hawks
+team_295,295,Saint Louis Billikens,SLU,Y,Billikens
+team_320,320,Saint Mary`s Gaels,SMC,Y,Gaels
+team_503,503,Saint Peter`s Peacocks,SPC,Y,Peacocks
+team_251,251,Sam Houston State Bearkats,SAMH,Y,Bearkats
+team_297,297,Samford Bulldogs,SAMF,Y,Bulldogs
+team_512,512,San Diego Toreros,USD,Y,Toreros
+team_323,323,San Diego State Aztecs,SDSU,Y,Aztecs
+team_299,299,San Francisco Dons,SF,Y,Dons
+team_429,429,San Jose State Spartans,SJST,Y,Spartans
+team_301,301,Santa Clara Broncos,SCL,Y,Broncos
+team_553,553,Savannah State Tigers,SAV,N,Tigers
+team_338,338,Seton Hall Pirates,SETON,Y,Pirates
+team_228,228,Siena Saints,SIE,Y,Saints
+team_443,443,South Alabama Jaguars,USA,Y,Jaguars
+team_303,303,South Carolina Gamecocks,SC,Y,Gamecocks
+team_491,491,South Carolina State Bulldogs,SCST,Y,Bulldogs
+team_396,396,South Florida Bulls,USF,Y,Bulls
+team_523,523,Southeast Missouri State Redhawks,SEMO,Y,Redhawks
+team_249,249,Southeastern Louisiana Lions,SELU,Y,Lions
+team_518,518,Southern Jaguars,SOU,Y,Jaguars
+team_398,398,Southern California Trojans,USC,Y,Trojans
+team_400,400,Southern Illinois Salukis,SIU,Y,Salukis
+team_477,477,Southern Mississippi Golden Eagles,SOMS,Y,Golden Eagles
+team_402,402,Southern Utah Thunderbirds,SUU,Y,Thunderbirds
+team_307,307,Stanford Cardinal,STAN,Y,Cardinal
+team_468,468,Stephen F. Austin Lumberjacks,SFA,Y,Lumberjacks
+team_335,335,Stetson Hatters,STET,Y,Hatters
+team_546,546,Stony Brook Seawolves,SBRK,Y,Seawolves
+team_310,310,Syracuse Orange,SYR,Y,Orange
+team_501,501,Temple Owls,TEMP,Y,Owls
+team_309,309,Tennessee Volunteers,TENN,Y,Volunteers
+team_308,308,Tennessee State Tigers,TSU,Y,Tigers
+team_513,513,Tennessee Tech Golden Eagles,TTU,Y,Golden Eagles
+team_525,525,Tennessee-Martin Skyhawks,UTM,Y,Skyhawks
+team_444,444,Texas Longhorns,TEX,Y,Longhorns
+team_233,233,Texas A&M Aggies,TAMU,Y,Aggies
+team_551,551,Texas A&M-Corpus Christi Islanders,TAMC,Y,Islanders
+team_272,272,TCU Horned Frogs,TCU,Y,Horned Frogs
+team_347,347,Texas Southern Tigers,TXSO,Y,Tigers
+team_405,405,Texas State Bobcats,TXST,Y,Bobcats
+team_240,240,Texas Tech Red Raiders,TXT,Y,Red Raiders
+team_282,282,Texas-Arlington Mavericks,UTA,Y,Mavericks
+team_404,404,Texas–Pan American Broncs,UTPA,Y,Broncs
+team_406,406,Texas-San Antonio Roadrunners,UTSA,Y,Roadrunners
+team_311,311,Toledo Rockets,TOL,Y,Rockets
+team_361,361,Towson Tigers,TOW,Y,Tigers
+team_528,528,Troy Trojans,TROY,Y,Trojans
+team_313,313,Tulane Green Wave,TUL,Y,Green Wave
+team_408,408,Tulsa Golden Hurricane,TULS,Y,Golden Hurricane
+team_239,239,UAB Blazers,UAB,Y,Blazers
+team_314,314,UC Irvine Anteaters,UCI,Y,Anteaters
+team_549,549,UC Riverside Highlanders,UCR,Y,Highlanders
+team_430,430,UC Santa Barbara Gauchos,UCSB,Y,Gauchos
+team_250,250,UCF Knights,UCF,Y,Knights
+team_315,315,UCLA Bruins,UCLA,Y,Bruins
+team_496,496,UNC Asheville Bulldogs,UNCA,Y,Bulldogs
+team_524,524,UNC Greensboro Spartans,UNCG,Y,Spartans
+team_469,469,UNC Wilmington Seahawks,UNCW,Y,Seahawks
+team_424,424,UNLV Runnin Rebels,UNLV,Y,Runnin Rebels
+team_502,502,UTEP Miners,UTEP,Y,Miners
+team_481,481,Utah Utes,UTAH,Y,Utes
+team_351,351,Utah State Aggies,USU,Y,Aggies
+team_410,410,Virginia Commonwealth Rams,VCU,Y,Rams
+team_243,243,Valparaiso Beacons,VALP,Y,Beacons
+team_451,451,Vanderbilt Commodores,VAND,Y,Commodores
+team_514,514,Vermont Catamounts,UVM,Y,Catamounts
+team_328,328,Villanova Wildcats,NOVA,Y,Wildcats
+team_229,229,Virginia Cavaliers,UVA,Y,Cavaliers
+team_411,411,Virginia Military Institute Keydets,VMI,Y,Keydets
+team_412,412,Virginia Tech Hokies,VT,Y,Hokies
+team_459,459,Wagner Seahawks,WAG,Y,Seahawks
+team_317,317,Wake Forest Demon Deacons,WF,Y,Demon Deacons
+team_415,415,Washington Huskies,WASH,Y,Huskies
+team_486,486,Washington State Cougars,WSU,Y,Cougars
+team_417,417,Weber State Wildcats,WEB,Y,Wildcats
+team_480,480,West Virginia Mountaineers,WV,Y,Mountaineers
+team_515,515,Western Carolina Catamounts,WCAR,Y,Catamounts
+team_353,353,Western Illinois Leathernecks,WIU,Y,Leathernecks
+team_399,399,Western Kentucky Hilltoppers,WKU,Y,Hilltoppers
+team_419,419,Western Michigan Broncos,WMU,Y,Broncos
+team_319,319,Wichita State Shockers,WICH,Y,Shockers
+team_478,478,William & Mary Tribe,CWM,Y,Tribe
+team_452,452,Winthrop Eagles,WINT,Y,Eagles
+team_325,325,Wisconsin Badgers,WISC,Y,Badgers
+team_532,532,Wofford Terriers,WOFF,Y,Terriers
+team_421,421,Wright State Raiders,WRIG,Y,Raiders
+team_423,423,Wyoming Cowboys,WYO,Y,Cowboys
+team_330,330,Xavier Musketeers,XU,Y,Musketeers
+team_321,321,Yale Bulldogs,YALE,Y,Bulldogs
+team_441,441,Youngstown State Penguins,YSU,Y,Penguins
+team_440,440,Air Force Falcons,AFA,Y,Falcons
+team_571,571,Cal State Bakersfield Roadrunners,CSUB,Y,Roadrunners
+team_574,574,Central Arkansas Bears,UCA,Y,Bears
+team_566,566,Florida Gulf Coast Eagles,FGCU,Y,Eagles
+team_561,561,Kennesaw State Owls,KENN,Y,Owls
+team_563,563,NJIT Highlanders,NJIT,Y,Highlanders
+team_569,569,North Carolina Central Eagles,NCC,Y,Eagles
+team_560,560,North Dakota State Bison,NDSU,Y,Bison
+team_564,564,North Florida Ospreys,UNF,Y,Ospreys
+team_557,557,Northern Colorado Bears,NOCO,Y,Bears
+team_573,573,Presbyterian Blue Hose,PRES,Y,Blue Hose
+team_575,575,South Carolina Upstate Spartans,SCU,Y,Spartans
+team_559,559,South Dakota State Jackrabbits,SDST,Y,Jackrabbits
+team_558,558,UC Davis Aggies,UCD,Y,Aggies
+team_562,562,Utah Valley Wolverines,UVU,Y,Wolverines
+team_581,581,Abilene Christian Wildcats,ACU,Y,Wildcats
+team_567,567,Bryant Bulldogs,BRY,Y,Bulldogs
+team_576,576,Houston Christian Huskies,HBU,Y,Huskies
+team_576,576,Houston Christian Huskies,HCU,Y,Huskies
+team_570,570,North Dakota Fighting Hawks,UND,Y,Fighting Hawks
+team_572,572,SIU Edwardsville Cougars,SIUE,Y,Cougars
+team_565,565,Seattle Redhawks,SEA,Y,Redhawks
+team_568,568,South Dakota Coyotes,SDAK,Y,Coyotes
+team_577,577,Omaha Mavericks,NEBO,Y,Mavericks
+team_578,578,Northern Kentucky Norse,NKU,Y,Norse
+team_579,579,Grand Canyon Antelopes,GCU,Y,Antelopes
+team_582,582,Incarnate Word Cardinals,INCW,Y,Cardinals
+team_580,580,Massachusetts-Lowell River Hawks,UML,Y,River Hawks
+team_404,404,Texas-Rio Grande Valley Vaqueros,TRGV,Y,Vaqueros
+team_5049,5049,California Baptist Lancers,CBU,Y,Lancers
+team_7529,7529,Merrimack Warriors,MERR,Y,Warriors
+team_5050,5050,North Alabama Lions,NAL,Y,Lions
+team_432,432,Long Island Sharks,LIU,Y,Sharks
+team_11197,11197,Bellarmine Knights,BELL,Y,Knights
+team_11198,11198,Tarleton State Texans,TARL,Y,Texans
+team_11199,11199,UC San Diego Tritons,USCD,Y,Tritons
+team_11200,11200,Utah Tech Trailblazers,UTCH,Y,Trailblazers
+team_16670,16670,Saint Thomas (Minn.) Tommies,STMN,Y,Tommies
+team_243,243,Valparaiso Beacons,VALP,Y,Beacons
+,,Lindenwood Lions,LIND,Y,Lions
+,,Queens (N.C.) Royals,QUNC,Y,Royals
+,,Southern Indiana Screaming Eagles,SIND,Y,Screaming Eagles
+,,Stonehill Skyhawks,STNH,Y,Skyhawks
+,,Texas A&M-Commerce Lions,TMCM,Y,Lions
