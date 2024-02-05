@@ -1,0 +1,173 @@
+﻿Team1,Team2,Date
+Bradley,Tulane,11/20/2023
+California,UTEP,11/20/2023
+Bradley,UTEP,11/22/2023
+California,Tulane,11/22/2023
+Cal State Bakersfield,Sacramento State,11/20/2023
+Austin Peay,Tarleton State,11/20/2023
+Cal State Bakersfield,Tarleton State,11/22/2023
+Austin Peay,Sacramento State,11/22/2023
+James Madison,Southern Illinois,11/21/2023
+Fresno State,New Mexico State,11/21/2023
+James Madison,Fresno State,11/22/2023
+Southern Illinois,New Mexico State,11/22/2023
+Morgan State,Radford,11/21/2023
+Chicago State,Northern Colorado,11/21/2023
+Radford,Northern Colorado,11/22/2023
+Morgan State,Chicago State,11/22/2023
+Boston College,Colorado State,11/22/2023
+Creighton,Loyola Chicago,11/22/2023
+Colorado State,Creighton,11/23/2023
+Boston College,Loyola Chicago,11/23/2023
+North Carolina,Northern Iowa,11/22/2023
+Villanova,Texas Tech,11/22/2023
+Michigan,Memphis,11/22/2023
+Arkansas,Stanford,11/22/2023
+North Carolina,Villanova,11/23/2023
+Memphis,Arkansas,11/23/2023
+Northern Iowa,Texas Tech,11/23/2023
+Michigan,Stanford,11/23/2023
+Villanova,Memphis,11/24/2023
+North Carolina,Arkansas,11/24/2023
+Texas Tech,Michigan,11/24/2023
+Northern Iowa,Stanford,11/24/2023
+Baylor,Oregon State,11/22/2023
+Florida,Pittsburgh,11/22/2023
+Baylor,Florida,11/24/2023
+Oregon State,Pittsburgh,11/24/2023
+Penn State,Texas A&M,11/23/2023
+Florida Atlantic,Butler,11/23/2023
+Iowa State,VCU,11/23/2023
+Boise State,Virginia Tech,11/23/2023
+Texas A&M,Florida Atlantic,11/24/2023
+Iowa State,Virginia Tech,11/24/2023
+Penn State,Butler,11/24/2023
+VCU,Boise State,11/24/2023
+Florida Atlantic,Virginia Tech,11/26/2023
+Texas A&M,Iowa State,11/26/2023
+Butler,Boise State,11/26/2023
+Penn State,VCU,11/26/2023
+Oklahoma,Iowa,11/23/2023
+Seton Hall,Southern California,11/23/2023
+Oklahoma,Southern California,11/24/2023
+Iowa,Seton Hall,11/24/2023
+North Carolina State,Vanderbilt,11/23/2023
+BYU,Arizona State,11/23/2023
+North Carolina State,BYU,11/24/2023
+Vanderbilt,Arizona State,11/24/2023
+UNC Greensboro,Missouri-Kansas City,11/24/2023
+Brown,Delaware,11/24/2023
+Middle Tennessee,Illinois-Chicago,11/24/2023
+Ohio,George Washington,11/24/2023
+UNC Greensboro,Delaware,11/25/2023
+Illinois-Chicago,George Washington,11/25/2023
+Missouri-Kansas City,Brown,11/25/2023
+Middle Tennessee,Ohio,11/25/2023
+UNC Greensboro,Illinois-Chicago,11/26/2023
+Delaware,George Washington,11/26/2023
+Brown,Ohio,11/26/2023
+Missouri-Kansas City,Middle Tennessee,11/26/2023
+Alabama,Ohio State,11/24/2023
+Oregon,Santa Clara,11/24/2023
+Ohio State,Santa Clara,11/25/2023
+Alabama,Oregon,11/25/2023
+Mercer,Tennessee State,11/24/2023
+Southeastern Louisiana,Western Michigan,11/24/2023
+Mercer,Western Michigan,11/25/2023
+Southeastern Louisiana,Tennessee State,11/25/2023
+Texas-Rio Grande Valley,Hawaii,11/24/2023
+San Diego,Arkansas State,11/24/2023
+Hawaii,San Diego,11/25/2023
+Texas-Rio Grande Valley,Arkansas State,11/25/2023
+Temple,Saint Joseph`s,12/2/2023
+La Salle,Penn,12/2/2023
+Drexel,Villanova,12/2/2023
+South Dakota State,Wyoming,12/20/2023
+South Dakota State,Norfolk State,12/21/2023
+Nevada,Temple,12/21/2023
+Texas Christian,Old Dominion,12/21/2023
+Georgia Tech,Massachusetts,12/21/2023
+Nevada,Texas Christian,12/22/2023
+Temple,Old Dominion,12/22/2023
+Massachusetts,Portland,12/22/2023
+Nevada,Georgia Tech,12/24/2023
+Old Dominion,Massachusetts,12/24/2023
+Temple,Portland,12/24/2023
+North Dakota State,UC Davis,11/14/2023
+SIU Edwardsville,Denver,11/16/2023
+Nicholls State,SIU Edwardsville,11/17/2023
+Denver,Nicholls State,11/15/2023
+Maine,Northwestern State,11/16/2023
+Presbyterian,Maine,11/17/2023
+Northwestern State,Presbyterian,11/18/2023
+William & Mary,Omaha,11/16/2023
+Lindenwood,Omaha,11/17/2023
+Lindenwood,William & Mary,11/19/2023
+Weber State,Gardner-Webb,11/17/2023
+Colgate,Yale,11/17/2023
+Gardner-Webb,Colgate,11/18/2023
+Weber State,Yale,11/18/2023
+Weber State,Colgate,11/19/2023
+Gardner-Webb,Yale,11/19/2023
+Prairie View,Tennessee-Martin,11/19/2023
+Cal Poly,Saint Thomas (Minn.),11/17/2023
+Cal Poly,Portland State,11/18/2023
+Portland State,Saint Thomas (Minn.),11/19/2023
+Queens (N.C.),Fairfield,11/18/2023
+Coppin State,Eastern Illinois,11/18/2023
+Sacred Heart,Loyola Maryland,11/18/2023
+Holy Cross,Winthrop,11/17/2023
+Elon,IUPUI,11/17/2023
+IUPUI,Winthrop,11/18/2023
+Holy Cross,Elon,11/18/2023
+IUPUI,Holy Cross,11/19/2023
+Elon,Winthrop,11/19/2023
+Arkansas-Little Rock,Northern Illinois,11/18/2023
+Army,Albany,11/21/2023
+Michigan State,Arizona,11/23/2023
+Kennesaw State,Northeastern,11/20/2023
+Kennesaw State,Georgia Southern,11/19/2023
+Northeastern,Georgia Southern,11/21/2023
+Idaho State,Citadel,11/20/2023
+North Carolina Central,Citadel,11/21/2023
+Grambling,Sam Houston,11/22/2023
+UC Riverside,Green Bay,11/21/2023
+UNC Wilmington,Murray State,11/20/2023
+Appalachian State,UNC Wilmington,11/21/2023
+Murray State,Appalachian State,11/22/2023
+Rice,Indiana State,11/21/2023
+Pepperdine,UC Irvine,11/21/2023
+Toledo,New Mexico,11/21/2023
+Indiana State,Pepperdine,11/22/2023
+New Mexico,Rice,11/22/2023
+UC Irvine,Toledo,11/22/2023
+Toledo,Indiana State,11/24/2023
+Rice,UC Irvine,11/24/2023
+New Mexico,Pepperdine,11/24/2023
+Texas State,McNeese State,11/21/2023
+Southern Utah,Texas State,11/22/2023
+Alabama A&M,East Tennessee State,11/24/2023
+Long Island,Texas A&M-Corpus Christi,11/24/2023
+Merrimack,North Carolina A&T,11/22/2023
+North Carolina A&T,Alabama State,11/24/2023
+Alabama State,Merrimack,11/25/2023
+UC San Diego,Idaho,11/24/2023
+UNC Asheville,Lipscomb,11/24/2023
+Canisius,Wofford,11/24/2023
+Bowling Green,Western Kentucky,11/24/2023
+Western Kentucky,Canisius,11/25/2023
+UNC Asheville,Wofford,11/25/2023
+Lipscomb,Bowling Green,11/25/2023
+Western Kentucky,UNC Asheville,11/26/2023
+Wofford,Lipscomb,11/26/2023
+Canisius,Bowling Green,11/26/2023
+Bethune-Cookman,Lamar,11/24/2023
+Delaware State,Bethune-Cookman,11/25/2023
+Lamar,Delaware State,11/26/2023
+Belmont,Monmouth,11/24/2023
+Lafayette,Monmouth,11/25/2023
+Belmont,Lafayette,11/26/2023
+Southeast Missouri State,Evansville,11/25/2023
+Fairleigh Dickinson,Jacksonville,11/25/2023
+Jacksonville State,Incarnate Word,11/26/2023
+College of Charleston,Liberty,12/1/2023
